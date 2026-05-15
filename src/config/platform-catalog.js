@@ -23,6 +23,7 @@
 export const PLATFORM_CATALOG = {
   // Code Repositories & Version Control
   gh: 'https://github.com',
+  rawg: 'https://raw.githubusercontent.com',
   gist: 'https://gist.github.com',
   gl: 'https://gitlab.com',
   gitea: 'https://gitea.com',
