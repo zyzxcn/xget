@@ -23,7 +23,6 @@
 export const PLATFORM_CATALOG = {
   // Code Repositories & Version Control
   rawg: 'https://raw.githubusercontent.com',
-  ddnsbot: 'https://ddns-bot.vercel.app',
   
   gh: 'https://github.com',
   gist: 'https://gist.github.com',
